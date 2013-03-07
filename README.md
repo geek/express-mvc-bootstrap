@@ -1,3 +1,1 @@
-<script language="javascript">
-window.location.href = "http://example.com"
-</script>
+<link rel="canonical" href="http://www.example.com"/>
