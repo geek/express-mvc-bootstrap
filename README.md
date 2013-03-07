@@ -1,1 +1,3 @@
-<meta http-equiv="refresh" content="0; url=http://google.com/"> 
+<script language="javascript">
+window.location.href = "http://example.com"
+</script>
